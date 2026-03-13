@@ -1,5 +1,5 @@
 # Universal Harmonic Matrix (UHM) for Zero-Jitter DDS 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19009409.svg)](https://doi.org/10.5281/zenodo.19009409)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19009768.svg)](https://doi.org/10.5281/zenodo.19009768)
 
 **A paradigm shift in Direct Digital Synthesis (DDS): Replacing algorithmic complexity with structural geometric simplicity.**
 
@@ -26,7 +26,7 @@ Instead of masking errors algorithmically, the **Universal Harmonic Matrix** pre
 
 ## Scientific Paper & Theory
 The full theoretical background, mathematical proofs, and architectural limits are published and peer-reviewed via CERN's Zenodo database.
-📄 **[Read the full scientific paper here](https://zenodo.org/records/19009409)**
+📄 **[Read the full scientific paper here](https://zenodo.org/records/19009768)**
 
 ## Author
 **Oleksandr Lozovyi** *Independent Researcher, Medical Expert (Lviv, Ukraine)*
